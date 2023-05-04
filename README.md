@@ -1,7 +1,7 @@
 
 ## Estimate of hours
 Around 3 days were spent on this project.
-## How we tested code
+## How I tested code
 Initially, I started with curl testing and developing. such as,
 
 
